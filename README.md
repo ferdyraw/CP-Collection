@@ -1,2 +1,2 @@
-# SCPC 2023
-SCPC Compfest 2023 all accepted submissions by our team p!ngsut.
+# CP Collection
+ICPC? INC? Compfest? And any other competition? This are all accepted submissions by our team p!ngust.
